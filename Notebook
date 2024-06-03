@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyO9U1VtsRViIV+nQKCIOGt2",
+      "authorship_tag": "ABX9TyM2q0kWZC65E1gmKBDf1SEl",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -41,12 +41,12 @@
       "metadata": {
         "id": "GLdscfq6qgu0"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
       "cell_type": "code",
-      "execution_count": 3,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -279,7 +279,7 @@
         "id": "4YlvbBTTrMcE",
         "outputId": "c43b49bc-315f-49a3-db58-e60014451e60"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -607,7 +607,7 @@
         "id": "mpmLUB-traTz",
         "outputId": "f9fe7adc-010c-48a1-c547-b3436f1fb110"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -634,7 +634,7 @@
         "id": "5C18OXFrsCVd",
         "outputId": "54c2796a-770f-4d55-e3d7-d62176dd4fed"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -794,7 +794,7 @@
         "id": "sFVQnnB2sGYI",
         "outputId": "47fd6183-e9f0-4df9-998f-e78107948122"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -827,7 +827,7 @@
         "id": "1NwZxlzIsr0f",
         "outputId": "e20bdfa9-e229-46ac-e986-11c3397e0dbd"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -857,7 +857,7 @@
         "id": "PoXTrpDythKQ",
         "outputId": "1522fb96-2035-4845-c83b-042ecfc91b53"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -882,7 +882,7 @@
       "metadata": {
         "id": "5lq5dw9DwWx3"
       },
-      "execution_count": 31,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -909,7 +909,7 @@
         "id": "RQrcRCT2vhXV",
         "outputId": "4f14f245-1d76-4ad8-ce8a-cf63b39b6e62"
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1080,7 +1080,7 @@
         "id": "fEcN5h5ytDHQ",
         "outputId": "c35548a2-2cbe-4765-a241-46984b22639e"
       },
-      "execution_count": 37,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1114,7 +1114,7 @@
         "id": "nO2vJ1mWxC2v",
         "outputId": "a8874542-e7b4-4627-8ad5-c47db7fed39d"
       },
-      "execution_count": 51,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1148,7 +1148,7 @@
         "id": "GiacvFV_yCOY",
         "outputId": "d5588e64-e052-4536-cc72-04b8c8b480a2"
       },
-      "execution_count": 57,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1182,7 +1182,7 @@
         "id": "jI69vhNX4f48",
         "outputId": "2aa5efdb-b40b-49c3-c29a-378cd12fa2a7"
       },
-      "execution_count": 60,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1222,7 +1222,7 @@
         "id": "ZLD_nJd__5A4",
         "outputId": "2f0685c9-7e52-40a1-9087-3eacca16b950"
       },
-      "execution_count": 74,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1279,7 +1279,7 @@
         "id": "cN3YUkHl_Ixl",
         "outputId": "fc30b048-5362-47b7-e7e6-a83c2953a9fc"
       },
-      "execution_count": 72,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1390,7 +1390,7 @@
         "id": "HNZeyHjgBD4p",
         "outputId": "63bbd57a-b691-41ac-9e6e-da1a5d2a1ff4"
       },
-      "execution_count": 76,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1421,7 +1421,7 @@
         "id": "8OVqOn00Jqhs",
         "outputId": "62de4520-f06b-4bd3-a807-1c3d27387bc4"
       },
-      "execution_count": 78,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1482,7 +1482,7 @@
         "id": "QhnRVbRVKH40",
         "outputId": "5a85df53-ae0d-4790-bb04-9642ad132b6c"
       },
-      "execution_count": 84,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1504,7 +1504,7 @@
         "\n",
         "The F-statistic is 1.71\n",
         "\n",
-        "Since the p-value is less than 0.05 then it suggests that there is a significant ffect on genre"
+        "The p-value of 0.042 is less than the significance level of 0.05, indicating statistically significant evidence to reject the null hypothesis. Therefore, there are significant differences in ratings between different genres."
       ],
       "metadata": {
         "id": "Sd8PzrUJOAQy"
@@ -1526,7 +1526,7 @@
         "id": "Iw2TMfCeNcVJ",
         "outputId": "20f5bda6-9ccc-443e-8c08-b4f3a55e2f65"
       },
-      "execution_count": 86,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1548,17 +1548,114 @@
         "\n",
         "The F-statistic is 3.32\n",
         "\n",
-        "Since the p-value is less than 0.01 then there is a significant effect on developers\n"
+        "The p-value of 0.002 is less than the significance level of 0.05, indicating statistically significant evidence to reject the null hypothesis. Therefore, there are significant differences in ratings between different developers.\n"
       ],
       "metadata": {
         "id": "MIiv16AsT_5r"
       }
     },
     {
+      "cell_type": "markdown",
+      "source": [
+        "#### Regression Analysis\n",
+        "Building a regression model to analyze how various independent variables collectively influence game ratings. This step will involve using multiple linear regression since there are multiple independent variables."
+      ],
+      "metadata": {
+        "id": "J7NDaud6cOrG"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from sklearn.model_selection import train_test_split\n",
+        "from sklearn.linear_model import LinearRegression\n",
+        "\n",
+        "# Encoding categorical variables ('Developer' and 'Genre')\n",
+        "df['Developer_encoded'] = label_encoder.fit_transform(df['Developer'])\n",
+        "df['Genre_encoded'] = label_encoder.fit_transform(df['Genre'])\n",
+        "\n",
+        "# Selecting independent variables and dependent variable (ratings)\n",
+        "X = df[['Developer_encoded', 'Genre_encoded']]\n",
+        "y = df['Rating']\n",
+        "\n",
+        "# Splitting the data into training and testing sets\n",
+        "X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n",
+        "\n",
+        "# Building and training the multiple linear regression model\n",
+        "regression_model = LinearRegression()\n",
+        "regression_model.fit(X_train, y_train)\n",
+        "\n",
+        "# Evaluating the model's performance\n",
+        "train_score = regression_model.score(X_train, y_train)\n",
+        "test_score = regression_model.score(X_test, y_test)\n",
+        "\n",
+        "print(f\"Training R^2 Score: {train_score}\")\n",
+        "print(f\"Testing R^2 Score: {test_score}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "lyppKaekdyC3",
+        "outputId": "05f4412d-0c37-4fdc-878a-d71e3664510e"
+      },
+      "execution_count": 90,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Training R^2 Score: 0.12183668048461438\n",
+            "Testing R^2 Score: -0.10464038981450452\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "The R^2 score measures the proportion of the variance in the dependent variable (ratings) that is predictable from the independent variables (developers and genres) in the model. The low R^2 scores suggest that the model does not explain much of the variability in the ratings. The negative testing R^2 score indicates poor performance of the model on unseen data, suggesting potential overfitting or lack of generalization."
+      ],
+      "metadata": {
+        "id": "2vRZp_RN7WJo"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Conclusion\n",
+        "\n",
+        "This comprehensive analysis reveals that both the genre and the developer significantly influence mobile game ratings. However, these factors alone do not fully determine a game's success. To achieve higher ratings, developers must look beyond just the type of game or the developer's reputation."
+      ],
+      "metadata": {
+        "id": "Ze8-nF4A7pSp"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### Recommendations for Stakeholders\n",
+        "\n",
+        "### i.) Focus on High-Rating Genres and Developers:\n",
+        "Prioritize investing in and developing games within genres like Action RPG and Adventure, which have shown higher average ratings. Partner with or learn from top developers known for their high-rated games.\n",
+        "### ii.) Expand Data Utilization:\n",
+        "Incorporate additional data such as user reviews, game mechanics, and marketing strategies into your analysis. This holistic approach will provide deeper insights into what truly drives game ratings and player satisfaction.\n",
+        "###iii.) Innovate Beyond Basics:\n",
+        "While genre and developer reputation are important, innovation in gameplay, storylines, and user engagement is crucial. Focus on unique and engaging game features that differentiate your product in the crowded market.\n",
+        "###iv.) Monitor Market Trends:\n",
+        "Stay ahead of market trends by continuously monitoring shifts in genre popularity and emerging successful developers. Adapting to these trends can help maintain competitiveness and relevance in the dynamic mobile gaming industry.\n",
+        "\n",
+        "By adopting these recommendations, stakeholders can strategically enhance their game development process, leading to higher-rated and more successful mobile games."
+      ],
+      "metadata": {
+        "id": "Shll7Y_l7uKx"
+      }
+    },
+    {
       "cell_type": "code",
       "source": [],
       "metadata": {
-        "id": "71BlFjCsUTWE"
+        "id": "uKicwkb64QnT"
       },
       "execution_count": null,
       "outputs": []
